@@ -1,0 +1,49 @@
+.body{
+    background-color: #ffffff;
+    
+}
+.t1 {
+
+    width: 1850px;
+    height: 1000px;
+    overflow: hidden;
+    border: solid 10px #000000;
+    border-radius: 45%;
+    
+   
+}
+.t1 .imagens {
+    width: 21120%;
+    animation: animacao 30s infinite;;
+}
+.t1 .imagens  img {
+    width: 1850px ;
+}
+
+@keyframes animacao {
+    0%{margin-left: 0%;}
+    4%{margin-left: 0%;}
+    8%{margin-left: -100%;}
+    12%{margin-left: -100%;}
+    16%{margin-left: -201%;}
+    20%{margin-left: -201%;}
+    24%{margin-left: -301%;}
+    29%{margin-left: -301%;}
+    33%{margin-left: -401%;}
+    37%{margin-left: -401%;}
+    42%{margin-left: -401%;}
+    45%{margin-left: -401%;}
+    49%{margin-left: -501%;}
+    52%{margin-left: -501%;}
+    55%{margin-left: -601%;}
+    60%{margin-left: -601%;}
+    66%{margin-left: -701%;} 
+    74%{margin-left: -701%;}
+    79%{margin-left: -801%;}
+    85%{margin-left: -801%;}
+    88%{margin-left: -902%;}
+    90%{margin-left: -902%;}
+    96%{margin-left: -1002;}
+    100%{margin-left: -1002%;}
+
+}
